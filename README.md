@@ -1,0 +1,3 @@
+# Exercises
+
+My c# exercises
